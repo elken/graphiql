@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.8.3
+
+### Patch Changes
+
+- [#2265](https://github.com/graphql/graphiql/pull/2265) [`9458e10b`](https://github.com/graphql/graphiql/commit/9458e10ba24a6c919142ea1cebb409c7d055baf9) Thanks [@acao](https://github.com/acao)! - fix `codemirror` import bug for `onHasCompletion` for #2263. for esm/cjs users on autocomplete (umd bundle users not impacted)
+
 ## 1.8.2
 
 ### Patch Changes
